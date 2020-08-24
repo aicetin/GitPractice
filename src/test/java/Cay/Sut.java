@@ -5,6 +5,7 @@ public class Sut {
 
         System.out.println("Az sekerli sut");
 
+
         System.out.println("sut sut sut");
 
     }
