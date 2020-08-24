@@ -5,6 +5,5 @@ public class Kahve {
 
         System.out.println("Sutlu kahve");
 
-
     }
 }
