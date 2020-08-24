@@ -2,14 +2,26 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="69aef118-477e-4670-8213-f24dfcab2dc5" name="Default Changelist" comment="">
+<<<<<<< HEAD
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/Cay/Seker.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Cay/Seker.java" afterDir="false" />
+=======
+<<<<<<< HEAD
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+=======
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GitPractice.iml" beforeDir="false" afterPath="$PROJECT_DIR$/GitPractice.iml" afterDir="false" />
+>>>>>>> 3fabfa2017c16c3f2a30a1af93fad81d47c97b62
+>>>>>>> 3b6eb81499ae18c1873ce3dba71fb6558e03af2b
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+<<<<<<< HEAD
+=======
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
@@ -17,18 +29,26 @@
       </list>
     </option>
   </component>
+>>>>>>> 3fabfa2017c16c3f2a30a1af93fad81d47c97b62
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1gYB5Of84cfbxMBmytpXvnNsMXH" />
+<<<<<<< HEAD
+=======
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+>>>>>>> 3fabfa2017c16c3f2a30a1af93fad81d47c97b62
   <component name="ProjectViewState">
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+<<<<<<< HEAD
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+=======
     <property name="last_opened_file_path" value="$USER_HOME$/Desktop/GitPractice" />
+>>>>>>> 3fabfa2017c16c3f2a30a1af93fad81d47c97b62
   </component>
   <component name="SvnConfiguration">
     <configuration />
