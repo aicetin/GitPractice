@@ -4,11 +4,16 @@
     <list default="true" id="69aef118-477e-4670-8213-f24dfcab2dc5" name="Default Changelist" comment="">
 <<<<<<< HEAD
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Cay/Seker.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Cay/Seker.java" afterDir="false" />
+=======
+<<<<<<< HEAD
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
 =======
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/GitPractice.iml" beforeDir="false" afterPath="$PROJECT_DIR$/GitPractice.iml" afterDir="false" />
 >>>>>>> 3fabfa2017c16c3f2a30a1af93fad81d47c97b62
+>>>>>>> 3b6eb81499ae18c1873ce3dba71fb6558e03af2b
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
